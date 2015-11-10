@@ -1,0 +1,11 @@
+/* COLORS */
+#ffffff
+#000000
+#0000ff
+#ffff00
+#ff00ff
+#2e8b57
+#804040
+#d0d0d0
+#F8F8F0 (taken)
+#66a9ec (taken)
