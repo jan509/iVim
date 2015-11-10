@@ -324,10 +324,6 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>233F0694-0B9C-43E3-A44A-ECECF7DF6C73</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
 	<key>author</key>
 	<string>Jan Kowalewicz</string>
 </dict>
